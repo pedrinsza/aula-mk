@@ -1,0 +1,267 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    border-radius: 0;
+}
+
+.nav{
+    background-color: black;
+    color:(orange);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo{
+    width: 90px;
+    border-radius: 10%;
+}
+
+.lista{
+    display: flex;
+    align-items: center;
+}
+
+.lista-item{
+    list-style: none;
+    margin-right: 25px;
+}
+
+.lista-item-link{
+    color: orange;
+    text-decoration: none;
+}
+
+.header-mk{
+    /*background-color: black;*/
+    background-image: url(../img/bg-image.gif);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+}
+
+.header-mk-h1{
+    color: black;
+    font-size: 70px;
+    font-family: sans-serif;
+    display: flex;
+    font-style: bold;
+    text-shadow: 2px 2px 2px orange;
+}
+
+.header-mk-h2{
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    font-style: bold;
+    text-shadow: 2px 2px 2px orange;
+}
+
+.div-h1{
+    justify-content: left;
+}
+
+.h1{
+    color: orange;
+    font-size: 90px;
+    font-family: fantasy;
+    padding-bottom: 30px;
+    
+}
+
+.h1-nome{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.p-jg{
+    color: white;
+    font-size: 16px;
+}
+
+.section-jog{
+    background-color: black;
+    padding: 70px;
+}
+
+.section-nome{
+    background-color: #F5DD61;
+}
+
+.imagem-jogo{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bg-section-jog1{
+    background-image: url(/img/2.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog2{
+    background-image: url(/img/3.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog3{
+    background-image: url(/img/4.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog4{
+    background-image: url(/img/5.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog5{
+    background-image: url(/img/6.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog6{
+    background-image: url(/img/7.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog7{
+    background-image: url(/img/8.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog8{
+    background-image: url(/img/9.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog9{
+    background-image: url(/img/10.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog10{
+    background-image: url(/img/11.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog11{
+    background-image: url(/img/12.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-section-jog12{
+    background-image: url(/img/13.jpg);
+    width: 20vw;
+    height: 20vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img-10{
+    width: 25%;
+}
+
+.p-nome{
+    width: 20%;
+    text-align: left;
+}
+
+.nome-img1{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
